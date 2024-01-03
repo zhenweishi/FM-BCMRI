@@ -20,7 +20,12 @@ The FM-BCMRI is designed and developed by Dr.Zhenwei Shi, Zhihe Zhao, Zhitao Wei
 The FM-BCMRI model was pre-trained by using constrative learning algorithms (Figure A). The FM-BCMRI can be implemented to specific use cases by extracting quantitative imaging features or by task-specitic fine-tuning (Figure B). 
 ## Installation
 
-Before using the FM-BCMRI foundation model, we need to install related dependencies.
+Before using the FM-BCMRI foundation model, we suggest users create a vistual environment. Some example codes are as follows:
+```
+conda create --name fmbcmri python==3.8
+conda activate fmbcmri
+```
+Then install related dependencies.
 
 ```
 pip install -r requirements.txt
@@ -33,8 +38,12 @@ pip install -r requirements.txt -i https://pypi.tuna.tsinghua.edu.cn/simple
 
 ## Quick Start (10 mins)
 
-The FM-BCMRI model can be used in two manners (Figure B). For easy use, we provide two example notebooks to describe how it works. The example codes are in Jupyter notebooks.
-
+The FM-BCMRI model can be used in two manners (Figure B). For easy use, we provide an example notebook to describe how it works. The example codes are in Jupyter notebooks.
+Note that, users should download the FMBCMRI model from the [link](https://drive.google.com/drive/folders/1hQiwAwHooyc83x7eCl8PKtYfL-MWH5yd?usp=drive_link) firstly. Also, users need to download test data from the [link](https://drive.google.com/drive/folders/1KDfO58b_41GwCADvjcwQ-RLwpvwVNyai?usp=drive_link) .
+```
+[main_directory]/notebooks/[pretrained_checkpoint]
+[main_directory]/notebooks/[dataset]
+```
 ## License
 
 This project is freely available to browse, download, and use for scientific and educational purposes as outlined in the [Creative Commons Attribution 3.0 Unported License](https://creativecommons.org/licenses/by/3.0/).
