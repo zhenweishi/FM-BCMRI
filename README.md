@@ -14,7 +14,7 @@ The FM-BCMRI is designed and developed by Dr.Zhenwei Shi, Zhihe Zhao, Zhitao Wei
 ## Major Features
 
 <p align="center">
-<img src="https://github.com/zhenweishi/FM-BCMRI/assets/17007301/77fe4202-5dde-4c4e-ac59-27c6254873c2" width="1000" height="500">
+<img src="https://github.com/zhenweishi/FM-BCMRI/assets/17007301/77fe4202-5dde-4c4e-ac59-27c6254873c2" width="1000" height="450">
 </p>
 
 The FM-BCMRI model was pre-trained by using constrative learning algorithms (Figure A). The FM-BCMRI can be implemented to specific use cases by extracting quantitative imaging features or by task-specitic fine-tuning (Figure B). 
