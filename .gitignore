@@ -1,3 +1,4 @@
+
 *.pth.tar
 notebooks/dataset/DATASET1
 notebooks/feature_output
@@ -5,3 +6,4 @@ notebooks/finetuning_out
 notebooks/output
 notebooks/processed
 __pycache__/
+.vscode/
