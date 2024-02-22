@@ -1,4 +1,3 @@
-
 *.pth.tar
 notebooks/dataset/DATASET1
 notebooks/feature_output
