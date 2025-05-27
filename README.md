@@ -54,8 +54,8 @@ FM-BCMRI is still under development. Although we have tested and evaluated the w
 
 ## Main Developers
  - [Dr. Zhenwei Shi](https://github.com/zhenweishi) <sup/>1, 2
- - MSc. Zhihe Zhao <sup/>2, 3
  - MSc. Zhitao Wei <sup/>2, 4
+ - MSc. Zhihe Zhao <sup/>2, 3
  - MSc. Xiaodong Zheng <sup/>2, 4
  - [Dr. Chu Han](https://chuhan89.com) <sup/>1, 2
  - MD. Changhong Liang <sup/>1, 2
